@@ -6,10 +6,10 @@ This is the simplest entry point into the KindPath ecosystem.
 A navigation hub and contribution on-ramp: where to begin, how to collaborate, and how the pieces fit together.
 
 ## Core repositories
-- Field Kit (whitepaper + appendices)
-- Pilot in a Box (how to run a pilot)
-- Website (public front door)
-- KPTH (core working repo)
+- [Field Kit (whitepaper + appendices)](https://github.com/S4mu3lD4v1d/kindpath-fieldkit)
+- [Pilot in a Box (how to run a pilot)](https://github.com/S4mu3lD4v1d/kindpath-pilot-in-a-box)
+- [Website (public front door)](https://github.com/S4mu3lD4v1d/kindpath-website)
+- [KPTH (core working repo)](https://github.com/S4mu3lD4v1d/KPTH)
 
 ## How to collaborate
 - Use **Issues** for questions, proposals, and discussion
