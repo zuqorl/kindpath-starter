@@ -12,9 +12,10 @@ A navigation hub and contribution on-ramp: where to begin, how to collaborate, a
 - [KPTH (core working repo)](https://github.com/S4mu3lD4v1d/KPTH)
 
 ## How to collaborate
-- Use **Issues** for questions, proposals, and discussion
-- Use **Pull Requests** for edits and improvements
-- Keep contributions small, specific, and evidence-led
+- Use **Discussions** for questions, proposals, critique, and open-ended conversation:
+  https://github.com/S4mu3lD4v1d/kindpath-starter/discussions
+- Use **Issues** for trackable work items (bugs, tasks, specific change requests)
+- Use **Pull Requests** for edits and improvements (small and evidence-led)
 
 ## Values
 Regeneration over extraction. Truth without blame cycles. Respect for ancient knowledge + modern evidence.
